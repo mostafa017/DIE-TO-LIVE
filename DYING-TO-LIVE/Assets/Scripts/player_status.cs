@@ -94,6 +94,10 @@ public class player_status : MonoBehaviour
 				this.isImmune = false;
 				this.spriteRenderer.enabled = true;
 			}
+			else if (this.health==0)
+            {
+				FindObjectOfType<lvlm>().respwan();
+			}
 		}
 	}
 }

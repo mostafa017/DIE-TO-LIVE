@@ -1,40 +1,37 @@
-﻿/*using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PauseResume : MonoBehaviour {
+public class pause : MonoBehaviour
+{
 
 	public GameObject PauseScreen;
 	public static bool paused;
 	public KeyCode PauseButton;
 
 	// Use this for initialization
-	void Start () {
+	void Start()
+	{
 		paused = false;
 		PauseScreen.SetActive(false);
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		if(Input.GetKeyDown(PauseButton) && !paused)
-        {
-			paused();
-        }
-		else if (Input.GetKeyDown(PauseButton)&& paused)
-        {
-			Resume();
-        }
 
-		if(!PauseResume.paused)
-        {
-			if(Input.GetKeyDown(Spacebar) && grounded)
-            {
-				Jump();
-            }
-        }
-		
+	// Update is called once per frame
+	void Update()
+	{
+		if (Input.GetKeyDown(PauseButton) && !paused)
+		{
+			pausee();
+		}
+		else if (Input.GetKeyDown(PauseButton) && paused)
+		{
+			Resume();
+		}
+
+
+
 	}
-	void Pause()
+	void pausee()
 	{
 		PauseScreen.SetActive(true);
 		paused = true;
@@ -42,10 +39,9 @@ public class PauseResume : MonoBehaviour {
 	}
 
 	public void Resume()
-    {
+	{
 		PauseScreen.SetActive(false);
 		paused = false;
 		Time.timeScale = 1;
-    }
+	}
 }
-*/
