@@ -14,9 +14,11 @@ public class player_status : MonoBehaviour
 	private float immunityTime = 0f;
 	public float immunityDuration = 1.5f;
 	public int coinsCollected = 0;
-
+	public Text scoreUI;
 	public Gradient gradient;
 	public Image fill;
+	public Slider healthUI;
+
 
 	void Start()
 	{
@@ -81,7 +83,8 @@ public class player_status : MonoBehaviour
 
 	void Update()
 	{
-
+		scoreUI.text = "" + coinsCollected;
+		healthUI.value = health;
 		if (this.isImmune == true)
 		{
 			SpriteFlicker();
