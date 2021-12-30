@@ -1,60 +1,59 @@
 fileFormatVersion: 2
-guid: c93070ab218fd5a4395c67c83656884c
+guid: ead743ef8ee1f4142b49f8bb9203dcb9
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Klaus_0
-    21300002: Klaus_1
-    21300004: Klaus_2
-    21300006: Klaus_3
-    21300008: Klaus_4
-    21300010: Klaus_5
-    21300012: Klaus_6
-    21300014: Klaus_7
-    21300016: Klaus_8
-    21300018: Klaus_9
-    21300020: Klaus_10
-    21300022: Klaus_11
-    21300024: Klaus_12
-    21300026: Klaus_13
-    21300028: Klaus_14
-    21300030: Klaus_15
-    21300032: Klaus_16
-    21300034: Klaus_17
-    21300036: Klaus_18
-    21300038: Klaus_19
-    21300040: Klaus_20
-    21300042: Klaus_21
-    21300044: Klaus_22
-    21300046: Klaus_23
-    21300048: Klaus_24
-    21300050: Klaus_25
-    21300052: Klaus_26
-    21300054: Klaus_27
-    21300056: Klaus_28
-    21300058: Klaus_29
-    21300060: Klaus_30
-    21300062: Klaus_31
-    21300064: Klaus_32
-    21300066: Klaus_33
-    21300068: Klaus_34
-    21300070: Klaus_35
-    21300072: Klaus_36
-    21300074: Klaus_37
-    21300076: Klaus_38
-    21300078: Klaus_39
-    21300080: Klaus_40
-    21300082: Klaus_41
-    21300084: Klaus_42
-    21300086: Klaus_43
-    21300088: Klaus_44
-    21300090: Klaus_45
-    21300092: Klaus_46
-    21300094: Klaus_47
-    21300096: Klaus_48
-    21300098: Klaus_49
-    21300100: Klaus_50
-    21300102: Klaus_51
-    21300104: Klaus_52
+    21300000: Vicky_0
+    21300002: Vicky_1
+    21300004: Vicky_2
+    21300006: Vicky_3
+    21300008: Vicky_4
+    21300010: Vicky_5
+    21300012: Vicky_6
+    21300014: Vicky_7
+    21300016: Vicky_8
+    21300018: Vicky_9
+    21300020: Vicky_10
+    21300022: Vicky_11
+    21300024: Vicky_12
+    21300026: Vicky_13
+    21300028: Vicky_14
+    21300030: Vicky_15
+    21300032: Vicky_16
+    21300034: Vicky_17
+    21300036: Vicky_18
+    21300038: Vicky_19
+    21300040: Vicky_20
+    21300042: Vicky_21
+    21300044: Vicky_22
+    21300046: Vicky_23
+    21300048: Vicky_24
+    21300050: Vicky_25
+    21300052: Vicky_26
+    21300054: Vicky_27
+    21300056: Vicky_28
+    21300058: Vicky_29
+    21300060: Vicky_30
+    21300062: Vicky_31
+    21300064: Vicky_32
+    21300066: Vicky_33
+    21300068: Vicky_34
+    21300070: Vicky_35
+    21300072: Vicky_36
+    21300074: Vicky_37
+    21300076: Vicky_38
+    21300078: Vicky_39
+    21300080: Vicky_40
+    21300082: Vicky_41
+    21300084: Vicky_42
+    21300086: Vicky_43
+    21300088: Vicky_44
+    21300090: Vicky_45
+    21300092: Vicky_46
+    21300094: Vicky_47
+    21300096: Vicky_48
+    21300098: Vicky_49
+    21300100: Vicky_50
+    21300102: Vicky_51
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -137,13 +136,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Klaus_0
+      name: Vicky_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 920
-        width: 106
-        height: 155
+        x: 32
+        y: 688
+        width: 44
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,19 +150,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7070a77510fbdd442abdd8ca4dec7137
+      spriteID: 590369c5faa7c0142b65e29c0b01eb60
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_1
+      name: Vicky_1
       rect:
         serializedVersion: 2
-        x: 144
-        y: 920
-        width: 96
-        height: 155
+        x: 128
+        y: 688
+        width: 44
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,19 +170,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17f4b7aad7b90c647a037f2827606ebb
+      spriteID: 59d7754e90a00d140bd5ea5b22add6a4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_2
+      name: Vicky_2
       rect:
         serializedVersion: 2
-        x: 252
-        y: 920
-        width: 105
-        height: 147
+        x: 224
+        y: 688
+        width: 44
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,19 +190,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01eaf6e070dd653499ff59a942ab7821
+      spriteID: 8120ea935da087e43933f071c2a81d74
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_3
+      name: Vicky_3
       rect:
         serializedVersion: 2
-        x: 386
-        y: 920
-        width: 107
-        height: 152
+        x: 320
+        y: 688
+        width: 44
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,19 +210,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20c9686988335ff4eb51aada94d831bb
+      spriteID: 86e39a0bdaae44b4e85d57bd12268f5e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_4
+      name: Vicky_4
       rect:
         serializedVersion: 2
-        x: 511
-        y: 920
-        width: 104
-        height: 154
+        x: 416
+        y: 688
+        width: 44
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,19 +230,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ef7a12d6088f4942b02f5900c6e0836
+      spriteID: bd593e3c63de6874c944f3dbb74068c3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_5
+      name: Vicky_5
       rect:
         serializedVersion: 2
-        x: 632
-        y: 920
-        width: 111
-        height: 143
+        x: 20
+        y: 592
+        width: 46
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,19 +250,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc6f643cfb977cd43877f15bf2d86132
+      spriteID: ce8118427aede0845b0a1b2b2eee8707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_6
+      name: Vicky_6
       rect:
         serializedVersion: 2
-        x: 763
-        y: 920
-        width: 106
-        height: 150
+        x: 116
+        y: 592
+        width: 46
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,19 +270,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 889a6118dda4a1443a7b13c69e46aab4
+      spriteID: 74ef9d09f25b00941818bbbf45395dc0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_7
+      name: Vicky_7
       rect:
         serializedVersion: 2
-        x: 887
-        y: 920
-        width: 104
-        height: 153
+        x: 212
+        y: 592
+        width: 46
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,19 +290,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ce4733f79a73534c9fa4cf4f250cf6f
+      spriteID: be3665b1b63234c4ebeb51b973f14286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_8
+      name: Vicky_8
       rect:
         serializedVersion: 2
-        x: 1005
-        y: 920
-        width: 111
-        height: 146
+        x: 308
+        y: 592
+        width: 46
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,19 +310,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a896bd82f1e17946a48a9e39894ad5a
+      spriteID: 877bc21c245abff45a3fbba830ef3f14
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_9
+      name: Vicky_9
       rect:
         serializedVersion: 2
-        x: 17
-        y: 741
-        width: 106
-        height: 154
+        x: 404
+        y: 592
+        width: 46
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,19 +330,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83fd53e5526b30648a2aafc73ad361fe
+      spriteID: cee769dd287c9e74cb3d0c502983913c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_10
+      name: Vicky_10
       rect:
         serializedVersion: 2
-        x: 147
-        y: 741
-        width: 96
-        height: 154
+        x: 22
+        y: 498
+        width: 44
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,19 +350,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b76230c489c1bde4ab187f759b038714
+      spriteID: 27d8fa61e56560647a995f4849e2e97f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_11
+      name: Vicky_11
       rect:
         serializedVersion: 2
-        x: 257
-        y: 741
-        width: 122
-        height: 146
+        x: 118
+        y: 496
+        width: 42
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,19 +370,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c61def091e9ddec47bf9b5ac3791e374
+      spriteID: 0917a4fc4d805c74faa78ffa7048ea91
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_12
+      name: Vicky_12
       rect:
         serializedVersion: 2
-        x: 380
-        y: 838
-        width: 74
-        height: 31
+        x: 216
+        y: 496
+        width: 42
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,19 +390,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29fbb39023db00a49a51ecd87d857437
+      spriteID: 104b53304a6b36147b2c9f8589d4ec3a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_13
+      name: Vicky_13
       rect:
         serializedVersion: 2
-        x: 468
-        y: 741
-        width: 107
-        height: 151
+        x: 310
+        y: 496
+        width: 42
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,19 +410,579 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1c7c91e4a066904e991ad1af8820114
+      spriteID: a50d483eb0d72d24bb0c1a8abefe0692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_14
+      name: Vicky_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 498
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5216e500ef336ac489c0e333e257fb61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_15
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 496
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb776ac9c3a2949996d37dbf14c97a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 496
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36c1bbc8d9029469363ca198d03c6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_17
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 498
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276acf6ef7c975945b62c44b2ad10008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 402
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29fe12c783171d4e9cfd9b9933ec3c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 400
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b3f5ac67f04746b724af478819b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 400
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1affca51097a3294a849d6a979db0d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e267600fa07093468fe0b6fb52c8248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 402
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51276e599b5ee534a89e8b3dc70f701f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 400
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7087b72d92bd74ab4eaa24dedb609d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_24
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 400
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cec274ba1944a47bc97c765b787065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 400
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b73cefab368cc4b99ad7feec98ceb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 306
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2093375bb718654daa8602a2dc8250c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 306
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabac31e06f3e74aab99e8cd7752496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 306
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c645badf39002d41879cf5ef818a735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 306
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fea59ee8e5f92499745c3a879375aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_30
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 306
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da6a1ee2285234d8e7c6b102ed8d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 210
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f59b316c87285448e1826382ce497e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 210
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee677195231c96f42ba8a53eb27d1b7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 210
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbf94bea4933dc4da862813de8b0cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 210
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f2351a2efe024bb5ff9dabadd6ae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 210
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e58f90a337404ebe9787582b12d4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef821e7a42a89cc4eb36e726690147c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 112
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6d1dfb3f506b4dbd2a932bb43831e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251d0000e27d7d4f836d2040254d504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1265d64c9ff347a0384bf17f65537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 112
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1340cf35d58d443ba9de63e0d826cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1260daddca6cbc34a873369e5bc5a4f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicky_42
       rect:
         serializedVersion: 2
         x: 608
-        y: 841
-        width: 44
-        height: 29
+        y: 112
+        width: 38
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,19 +990,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1d31fed5b5023740a1e7644bdd76c3a
+      spriteID: 9af37475935010d4ea3d3ccd194a92c1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_15
+      name: Vicky_43
       rect:
         serializedVersion: 2
-        x: 667
-        y: 741
-        width: 105
-        height: 154
+        x: 704
+        y: 112
+        width: 38
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -451,19 +1010,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f87187aa7ff72a42b39a3065ea7bc08
+      spriteID: bee74297da280b64aa16860d6944d74d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_16
+      name: Vicky_44
       rect:
         serializedVersion: 2
-        x: 820
-        y: 852
-        width: 22
-        height: 14
+        x: 26
+        y: 16
+        width: 40
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,19 +1030,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c011f89eb9f97148a3c9ac3d2a6dc54
+      spriteID: e5923e2d9e039b04383c89b4dd7e9045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_17
+      name: Vicky_45
       rect:
         serializedVersion: 2
-        x: 855
-        y: 741
-        width: 199
-        height: 143
+        x: 122
+        y: 16
+        width: 40
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,19 +1050,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e7c0f9e1dc9d4048a76b3a3cacaa974
+      spriteID: 0f7d9d211cbdea14a9cceb93284ed1da
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_18
+      name: Vicky_46
       rect:
         serializedVersion: 2
-        x: 1063
-        y: 741
-        width: 105
-        height: 150
+        x: 218
+        y: 16
+        width: 40
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -511,19 +1070,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64d96b5c003309844831adf7686d55f4
+      spriteID: 7b8e075988873484c9cf76372987d1cc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_19
+      name: Vicky_47
       rect:
         serializedVersion: 2
-        x: 1211
-        y: 846
-        width: 41
-        height: 28
+        x: 314
+        y: 16
+        width: 40
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,19 +1090,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88047f018aac0434d8f1623c01ad8816
+      spriteID: 5a75f821b2f8ffe4b9339d67b5bbc375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_20
+      name: Vicky_48
       rect:
         serializedVersion: 2
-        x: 1266
-        y: 741
-        width: 103
-        height: 154
+        x: 410
+        y: 16
+        width: 40
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,19 +1110,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60fe621fc47745b4e9e4d44a1bfff364
+      spriteID: ebca6680ff79f444dbdfe0282059d6f3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_21
+      name: Vicky_49
       rect:
         serializedVersion: 2
-        x: 1423
-        y: 858
-        width: 22
-        height: 14
+        x: 506
+        y: 16
+        width: 40
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,19 +1130,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8c056d7c81cd8b40a6406cbf590591c
+      spriteID: d8c6db76d0f78184a8d202604c2daa2f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_22
+      name: Vicky_50
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 742
-        width: 112
-        height: 147
+        x: 602
+        y: 16
+        width: 40
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -591,19 +1150,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fd0071618331fd4b964f83bb3193218
+      spriteID: 6d68d2486a261c24089c67e9aec657da
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Klaus_23
+      name: Vicky_51
       rect:
         serializedVersion: 2
-        x: 17
-        y: 565
-        width: 106
-        height: 155
+        x: 698
+        y: 16
+        width: 40
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,587 +1170,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0961e11ff982dc4bba57e25d972d789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_24
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 566
-        width: 96
-        height: 154
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f73196e821c76a47975a4a5b3e9162a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_25
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 565
-        width: 97
-        height: 155
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d37d9bc4f5f5851489f071f216243a46
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_26
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 670
-        width: 73
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02daa2366cd39cd47b0da3db0c263218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_27
-      rect:
-        serializedVersion: 2
-        x: 447
-        y: 566
-        width: 94
-        height: 154
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: acabeb81a5794ff4582df836553c424c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_28
-      rect:
-        serializedVersion: 2
-        x: 574
-        y: 668
-        width: 44
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 59b1ef6d10ac54447bb71c2cb4111122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_29
-      rect:
-        serializedVersion: 2
-        x: 632
-        y: 565
-        width: 104
-        height: 155
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 864e892f575dbf24db9b00f26c24f979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_30
-      rect:
-        serializedVersion: 2
-        x: 785
-        y: 677
-        width: 22
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7705bf6e5891d2b4fa5707bfcc60881d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_31
-      rect:
-        serializedVersion: 2
-        x: 826
-        y: 566
-        width: 199
-        height: 154
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 051eaa3295d9359438eff15f6b82e8e9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_32
-      rect:
-        serializedVersion: 2
-        x: 1037
-        y: 566
-        width: 105
-        height: 154
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d8c986a25a007f43ba77dc8e3dda2c3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_33
-      rect:
-        serializedVersion: 2
-        x: 1183
-        y: 675
-        width: 42
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0e7d73cfe145f7449f8542a3f2cabcb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_34
-      rect:
-        serializedVersion: 2
-        x: 1244
-        y: 565
-        width: 103
-        height: 155
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ede6f8b15e298d249ae08e9ad0140a23
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_35
-      rect:
-        serializedVersion: 2
-        x: 1401
-        y: 684
-        width: 22
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4dfe0e2cd8ae95429c66dbe8ae8a28b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_36
-      rect:
-        serializedVersion: 2
-        x: 1438
-        y: 565
-        width: 86
-        height: 155
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1f42a6cdf95b5c449a0ebba71460025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_37
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 392
-        width: 106
-        height: 159
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a0451964c1760c4da251d0de9346fbc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_38
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 392
-        width: 108
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0617448ced3db314da34a105d8b1a20b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_39
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 392
-        width: 103
-        height: 159
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7742f82cd8f7095418f264b02f6aa05e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_40
-      rect:
-        serializedVersion: 2
-        x: 389
-        y: 392
-        width: 122
-        height: 154
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9cb39acd75f096e4baf2e8feb3f441c2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_41
-      rect:
-        serializedVersion: 2
-        x: 532
-        y: 392
-        width: 131
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d6f23b62f899344d9872386be207bbe
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_42
-      rect:
-        serializedVersion: 2
-        x: 684
-        y: 392
-        width: 98
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ffb833fee1d02c44b29a9eef2c5ccba
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_43
-      rect:
-        serializedVersion: 2
-        x: 801
-        y: 392
-        width: 103
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e3ffc90fe2d197e438deeed9b30d1a82
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_44
-      rect:
-        serializedVersion: 2
-        x: 922
-        y: 392
-        width: 107
-        height: 159
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ff50546b40ede94d95742c3ffed0f47
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_45
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 211
-        width: 106
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 276b82ea58b3d8143afe992711b10d1f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_46
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 211
-        width: 106
-        height: 153
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f9315ba4ac42eb468de7bc1f1862c17
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_47
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 211
-        width: 101
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9c271ca353f92954191d224e6a0cae5e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_48
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 211
-        width: 92
-        height: 146
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f3092bfb0966bf459ebb9e2ecfd368a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_49
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 25
-        width: 106
-        height: 154
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b3d9f2780a550542865962783d01023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_50
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 25
-        width: 111
-        height: 139
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12a9212bb3e5f704c879ef323717593d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_51
-      rect:
-        serializedVersion: 2
-        x: 281
-        y: 25
-        width: 132
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4abddbdd8f107df4d8f32874eded8f8e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Klaus_52
-      rect:
-        serializedVersion: 2
-        x: 442
-        y: 25
-        width: 158
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2774d2ba9e64e964d9a4c78d07e23c70
+      spriteID: a6d538175e62f244a82bcbb7ba7b2032
       vertices: []
       indices: 
       edges: []
@@ -1199,7 +1178,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: dcde4cd7a9a20f04683d44e9c446de58
+    spriteID: 12b0cf65f60fcdb4d9c8c33c10cc82b3
     vertices: []
     indices: 
     edges: []
