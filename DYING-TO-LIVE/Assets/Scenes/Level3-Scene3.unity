@@ -145,7 +145,7 @@ Transform:
   m_LocalScale: {x: 1.4715878, y: 1.8099899, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &527956588
 Prefab:
@@ -385,8 +385,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 706707349
-  m_SortingLayer: 1
+  m_SortingLayerID: -676564653
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300052, guid: 0c21827372609434fab8809d1764468e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -630,7 +630,7 @@ Prefab:
     - target: {fileID: 224880882934989426, guid: 3e4e5907d6adbdc448aeccc31b99e537,
         type: 2}
       propertyPath: m_RootOrder
-      value: 9
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 224880882934989426, guid: 3e4e5907d6adbdc448aeccc31b99e537,
         type: 2}
@@ -864,7 +864,7 @@ Transform:
   m_LocalScale: {x: 7.6190042, y: 4.181874, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1533232072
 Prefab:
@@ -1027,7 +1027,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1562850226
 MonoBehaviour:
@@ -1122,7 +1122,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1936120364
 MonoBehaviour:
