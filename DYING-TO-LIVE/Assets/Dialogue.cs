@@ -29,7 +29,7 @@ public class Dialogue : MonoBehaviour {
 	public IEnumerator TypeDialogue()
     {
 		dialogueBox.SetActive(true);
-		player.constrains = Rigidbody2D.FreezePositionX | Rigidbody2D.FreezePositionY;
+		player.constrains = RigidbodyConstrains2D.FreezePositionX | RigidbodyConstrains2D.FreezePositionY;
 		foreach (char letter in dialogueSentences[index].ToCharArrary())
         {
 			textDisplay.text += letter;
@@ -44,7 +44,7 @@ public class Dialogue : MonoBehaviour {
     }
 	public void SetSentences(string[] sentence)
     {
-		this .dialogueSentences = sentence;
+		this.dialogueSentences = sentence;
     }
 
 	public void NextSentence()
@@ -63,8 +63,8 @@ public class Dialogue : MonoBehaviour {
 			dialogueBox.SetActive(false);
 			this.dialogueSentences = null;
 			index = 0;
-			player.constrains = Rigidbody2D.None;
-			player.constrains = Rigidbody2D.FreezeRotation;
+			player.constrains = RigidbodyContraints2D.None;
+			player.constrains = RigidbodyContraints2D.FreezeRotation;
         }
     }
 }
