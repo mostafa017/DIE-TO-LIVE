@@ -929,11 +929,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 11.85
+      value: 16.223
       objectReference: {fileID: 0}
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 1.74
+      value: 2.33
       objectReference: {fileID: 0}
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_LocalPosition.z
@@ -972,6 +972,14 @@ Prefab:
         type: 2}
       propertyPath: m_SortingLayer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1.242556
+      objectReference: {fileID: 0}
+    - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.634985
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
@@ -2319,6 +2327,16 @@ Prefab:
       propertyPath: m_Name
       value: zombies1_8 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 114600621194628932, guid: cc48cd746e6f56d4d9aa7db9e0631b12,
+        type: 2}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600621194628932, guid: cc48cd746e6f56d4d9aa7db9e0631b12,
+        type: 2}
+      propertyPath: isFacingRight
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cc48cd746e6f56d4d9aa7db9e0631b12, type: 2}
   m_IsPrefabAsset: 0
@@ -2424,6 +2442,11 @@ Prefab:
         type: 2}
       propertyPath: m_SortingLayer
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114726310336703506, guid: 3d4508a15a581934b80ec5c008bf4458,
+        type: 2}
+      propertyPath: damage
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d4508a15a581934b80ec5c008bf4458, type: 2}
@@ -2580,6 +2603,11 @@ Prefab:
     - target: {fileID: 1905706785002470, guid: cc48cd746e6f56d4d9aa7db9e0631b12, type: 2}
       propertyPath: m_Name
       value: zombies1_8 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600621194628932, guid: cc48cd746e6f56d4d9aa7db9e0631b12,
+        type: 2}
+      propertyPath: damage
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cc48cd746e6f56d4d9aa7db9e0631b12, type: 2}
@@ -3447,6 +3475,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 114600621194628932, guid: cc48cd746e6f56d4d9aa7db9e0631b12,
+        type: 2}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cc48cd746e6f56d4d9aa7db9e0631b12, type: 2}
   m_IsPrefabAsset: 0
@@ -4101,6 +4134,11 @@ Prefab:
       propertyPath: m_Name
       value: zombies1_0 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114726310336703506, guid: 3d4508a15a581934b80ec5c008bf4458,
+        type: 2}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d4508a15a581934b80ec5c008bf4458, type: 2}
   m_IsPrefabAsset: 0
@@ -4309,7 +4347,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.14
+      value: 0.085
       objectReference: {fileID: 0}
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_LocalPosition.z
@@ -4334,6 +4372,10 @@ Prefab:
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_RootOrder
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.679025
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
@@ -4638,11 +4680,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 55.37
+      value: 55.315
       objectReference: {fileID: 0}
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 3.45
+      value: 3.286
       objectReference: {fileID: 0}
     - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_LocalPosition.z
@@ -4671,6 +4713,14 @@ Prefab:
     - target: {fileID: 1162179047835676, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
       propertyPath: m_Name
       value: platformIndustrial_112 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.3670751
+      objectReference: {fileID: 0}
+    - target: {fileID: 4617672960104594, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1.236984
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41bc94821b44ded4ca4a868b5e537e7f, type: 2}
@@ -4944,6 +4994,21 @@ Prefab:
       propertyPath: healthUI
       value: 
       objectReference: {fileID: 1581346320}
+    - target: {fileID: 114280408582014948, guid: 368b251ec74f43245af44cca7d3fa11d,
+        type: 2}
+      propertyPath: isFacingRight
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114280408582014948, guid: 368b251ec74f43245af44cca7d3fa11d,
+        type: 2}
+      propertyPath: groundCheckRadius
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114753357745423438, guid: 368b251ec74f43245af44cca7d3fa11d,
+        type: 2}
+      propertyPath: isFacingRight
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 368b251ec74f43245af44cca7d3fa11d, type: 2}
   m_IsPrefabAsset: 0
@@ -5204,6 +5269,11 @@ Prefab:
     - target: {fileID: 1905706785002470, guid: cc48cd746e6f56d4d9aa7db9e0631b12, type: 2}
       propertyPath: m_Name
       value: zombies1_8 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600621194628932, guid: cc48cd746e6f56d4d9aa7db9e0631b12,
+        type: 2}
+      propertyPath: damage
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cc48cd746e6f56d4d9aa7db9e0631b12, type: 2}
@@ -5893,11 +5963,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4064045959801358, guid: 3d4508a15a581934b80ec5c008bf4458, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 53.7
+      value: 53.62
       objectReference: {fileID: 0}
     - target: {fileID: 4064045959801358, guid: 3d4508a15a581934b80ec5c008bf4458, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.45
+      value: 0.64
       objectReference: {fileID: 0}
     - target: {fileID: 4064045959801358, guid: 3d4508a15a581934b80ec5c008bf4458, type: 2}
       propertyPath: m_LocalPosition.z
@@ -5926,6 +5996,16 @@ Prefab:
     - target: {fileID: 1591640431587394, guid: 3d4508a15a581934b80ec5c008bf4458, type: 2}
       propertyPath: m_Name
       value: zombies1_0 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114726310336703506, guid: 3d4508a15a581934b80ec5c008bf4458,
+        type: 2}
+      propertyPath: damage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114726310336703506, guid: 3d4508a15a581934b80ec5c008bf4458,
+        type: 2}
+      propertyPath: isFacingRight
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d4508a15a581934b80ec5c008bf4458, type: 2}

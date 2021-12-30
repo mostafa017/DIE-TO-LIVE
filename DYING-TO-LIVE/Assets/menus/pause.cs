@@ -44,4 +44,8 @@ public class pause : MonoBehaviour
 		paused = false;
 		Time.timeScale = 1;
 	}
+	public void Quit()
+	{
+		Application.Quit();
+	}
 }
