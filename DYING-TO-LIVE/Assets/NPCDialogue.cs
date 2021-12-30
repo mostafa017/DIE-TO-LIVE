@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NPCDialogue : MonoBehaviour {
-    public Dialogue dialougeManger;
+public class NPCDialogue : MonoBehaviour
+{
+    public Dialogue dialogueManager;
 
 	// Use this for initialization
 	void Start () {
@@ -19,7 +20,7 @@ public class NPCDialogue : MonoBehaviour {
     {
         if (other.tag == "Player")
         {
-            string[] dialogue = { "Jonathan: Thanks for bringing this stuff up, Klaus"
+            string[] dialogue = { "Jonathan: Thanks for bringing this stuff up, Klaus",
                                   "Klaus: You're welcome, you know, there's nothing hard for me to do in this world",
                                   "Jonathan: I know, but you're basically not here to deliver that stuff",
                                   "Klaus: Really? Why am I here then?",
@@ -30,7 +31,7 @@ public class NPCDialogue : MonoBehaviour {
                                   "Jonathan: Calm down, man. When you get there, you'll know everything.",
                                   "Klaus: Well, we'll see." };
             dialogueManager.SetSentences(dialogue);
-            dialogueManger.StartCoroutine(dialogueManager.TypeDialogue());
+            dialogueManager.StartCoroutine(dialogueManager.TypeDialogue());
         }
     }
 }

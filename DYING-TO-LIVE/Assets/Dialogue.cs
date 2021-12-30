@@ -1,13 +1,14 @@
 ﻿/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Dialogue : MonoBehaviour {
 
 	public TextMeshProUGUI textDisplay;
 	private string[] dialogueSentences;
 	private int index = 0;
-	public float typeSpeed;
+	public float typingSpeed;
 	public GameObject continueButton;
 	public GameObject dialogueBox;
 	public Rigidbody2D player;
@@ -29,7 +30,7 @@ public class Dialogue : MonoBehaviour {
 	public IEnumerator TypeDialogue()
     {
 		dialogueBox.SetActive(true);
-		player.constrains = RigidbodyConstrains2D.FreezePositionX | RigidbodyConstrains2D.FreezePositionY;
+		player.constrains = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezePositionY;
 		foreach (char letter in dialogueSentences[index].ToCharArrary())
         {
 			textDisplay.text += letter;
@@ -42,9 +43,9 @@ public class Dialogue : MonoBehaviour {
             }
         }
     }
-	public void SetSentences(string[] sentence)
+	public void SetSentences(string[] sentences)
     {
-		this.dialogueSentences = sentence;
+		this.dialogueSentences = sentences;
     }
 
 	public void NextSentence()
@@ -63,8 +64,8 @@ public class Dialogue : MonoBehaviour {
 			dialogueBox.SetActive(false);
 			this.dialogueSentences = null;
 			index = 0;
-			player.constrains = RigidbodyContraints2D.None;
-			player.constrains = RigidbodyContraints2D.FreezeRotation;
+			player.constraints = RigidbodyConstraints2D.None;
+			player.constraints = RigidbodyConstraints2D.FreezeRotation;
         }
     }
 }
